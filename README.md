@@ -43,7 +43,7 @@ List of files:
   
 4. `impute_v2_v6.R` - Average of results from `impute_v2.R` and `impute_v6.R`
 
-5. `impute_v2_v6_results2.R` - Average of results from `script.R`, `impute_v2.R` and `impute_v6.R`
+5. *BEST* `impute_v2_v6_results2.R` - Average of results from `script.R`, `impute_v2.R` and `impute_v6.R`
   
   
   
