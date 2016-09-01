@@ -1,6 +1,6 @@
 *.csv
 *.zip
-helper_v*.*
+helper_v[1-4].*
 impute_v1.*
 impute_v[3-6].*
 revised*.*
